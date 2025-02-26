@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Wian Schoeman 👋
 
-<!--
-**Wian47/Wian47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://gpvc.arturio.dev/Wian47)  
+[![GitHub followers](https://img.shields.io/github/followers/Wian47?label=Follow&style=social)](https://github.com/Wian47?tab=followers)  
+[![Linkedin: Wian Schoeman](https://img.shields.io/badge/-WianSchoeman-6a0dad?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wian-schoeman/)](https://www.linkedin.com/in/wian-schoeman/)
 
-Here are some ideas to get you started:
+## About Me
+<span style="color:#6a0dad; font-weight:bold;">Aspiring Cyber Security Professional</span> with a strong foundation in information security and a passion for protecting digital assets. I’m currently pursuing Cyber Security studies and actively learning about network security, ethical hacking, and IT support. My goal is to secure digital environments and contribute effectively to a team in a professional setting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Current Role:** Accounts at Remington Supplies, Boksburg, Gauteng (since November 2023)
+- 🌱 **Studies:** Cyber Security at Eduvos, Bedfordview, Gauteng (since February 2024)
+- 👯 **Collaboration:** Interested in cybersecurity projects and open-source security initiatives
+- 🤔 **Seeking Guidance:** Looking to expand my skills in network security and ethical hacking
+- 💬 **Ask Me About:** Cyber security fundamentals, IT support, and programming
+- 📫 **Reach Me:** [wian.schoeman1@gmail.com](mailto:wian.schoeman1@gmail.com)
+- ⚡ **Fun Fact:** I love exploring emerging security technologies and new programming languages
+
+## Technologies & Tools
+[![Python](https://img.shields.io/badge/-Python-6a0dad?style=flat&logo=python&logoColor=white)](https://www.python.org)  
+[![Java](https://img.shields.io/badge/-Java-6a0dad?style=flat&logo=java&logoColor=white)](https://www.java.com)  
+[![Flutter/Dart](https://img.shields.io/badge/-Flutter/Dart-6a0dad?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)  
+[![HTML5](https://img.shields.io/badge/-HTML5-6a0dad?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  
+[![CSS3](https://img.shields.io/badge/-CSS3-6a0dad?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![Linux](https://img.shields.io/badge/-Linux-6a0dad?style=flat&logo=linux&logoColor=white)](https://www.linux.org)  
+[![Git](https://img.shields.io/badge/-Git-6a0dad?style=flat&logo=git&logoColor=white)](https://git-scm.com)
+
+## GitHub Stats
+![Wian Schoeman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wian47&show_icons=true&hide_border=true)
+
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Connect with Me
+[![Linkedin: Wian Schoeman](https://img.shields.io/badge/-WianSchoeman-6a0dad?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wian-schoeman/)](https://www.linkedin.com/in/wian-schoeman/)  
+[![Twitter: @YourTwitterHandle](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/YourTwitterHandle)
