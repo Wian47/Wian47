@@ -1,9 +1,5 @@
 # Hi there, I'm Wian Schoeman 👋
 
-![Profile views](https://gpvc.arturio.dev/Wian47)  
-[![GitHub followers](https://img.shields.io/github/followers/Wian47?label=Follow&style=social)](https://github.com/Wian47?tab=followers)  
-[![Linkedin: Wian Schoeman](https://img.shields.io/badge/-WianSchoeman-6a0dad?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wian-schoeman/)](https://www.linkedin.com/in/wian-schoeman/)
-
 ## About Me
 <span style="color:#6a0dad; font-weight:bold;">Aspiring Cyber Security Professional & Web Developer</span> with a strong foundation in information security and a passion for protecting digital assets. I’m currently pursuing Cyber Security studies and actively learning about network security, ethical hacking, and IT support. I also love web development—especially designing engaging, visually appealing websites with CSS, which fuels my creative side. My goal is to secure digital environments while crafting dynamic web experiences.
 
@@ -26,11 +22,3 @@
 
 ## GitHub Stats
 ![Wian Schoeman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wian47&show_icons=true&hide_border=true)
-
-## Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## Connect with Me
-[![Linkedin: Wian Schoeman](https://img.shields.io/badge/-WianSchoeman-6a0dad?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wian-schoeman/)](https://www.linkedin.com/in/wian-schoeman/)  
-[![Twitter: @YourTwitterHandle](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/YourTwitterHandle)
