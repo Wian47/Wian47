@@ -1,4 +1,4 @@
-# Hi there, I'm Wian Schoeman 👋
+# Hi there, I'm Wian👋
 
 ## About Me
 <span style="color:#6a0dad; font-weight:bold;">Aspiring Cyber Security Professional & Web Developer</span> with a strong foundation in information security and a passion for protecting digital assets. I’m currently pursuing Cyber Security studies and actively learning about network security, ethical hacking, and IT support. I also love web development—especially designing engaging, visually appealing websites with CSS, which fuels my creative side. My goal is to secure digital environments while crafting dynamic web experiences.
