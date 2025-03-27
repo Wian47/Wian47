@@ -19,6 +19,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-6a0dad?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 [![Linux](https://img.shields.io/badge/-Linux-6a0dad?style=flat&logo=linux&logoColor=white)](https://www.linux.org)  
 [![Git](https://img.shields.io/badge/-Git-6a0dad?style=flat&logo=git&logoColor=white)](https://git-scm.com)
+[![Typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](https://www.typescriptlang.org/)
 
 ## GitHub Stats
 ![Wian Schoeman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wian47&show_icons=true&hide_border=true)
